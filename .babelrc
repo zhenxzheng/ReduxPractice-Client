@@ -1,0 +1,6 @@
+{
+	"presets": [
+		"es2015", // npm i --save-dev babel-preset-es2015
+		"react"
+	]
+}
